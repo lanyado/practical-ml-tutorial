@@ -6,7 +6,7 @@ Except the Buisness Understanding, you will have to do it alone.<br/><br/>
 
 Requirements:<br/>
 1. preliminary knowledge:<br/>
-	a. Numpy<br/>
+        a. Numpy<br/>
 	b. Pandas<br/>
 2. install packages:<br/>
 	a. matplotlib<br/>
