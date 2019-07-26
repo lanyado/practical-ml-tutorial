@@ -1,4 +1,5 @@
 ![CRISP-DM](https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg =100x20)
+<img src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" alt="CRISP-DM" style="width:200px;"/>
 
 In this tutorial I'm going threw all the parts of CRISP-DM.
 Except the Buisness Understanding, you will have to do it alone.
