@@ -1,5 +1,4 @@
-![CRISP-DM](https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg =100x20)
-<img alt='CRISP-DM' src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" data-canonical-src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" width="200" height="400" />
+<img alt='CRISP-DM' src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" data-canonical-src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" width="300" height="300" />
 
 In this tutorial I'm going threw all the parts of CRISP-DM.
 Except the Buisness Understanding, you will have to do it alone.
