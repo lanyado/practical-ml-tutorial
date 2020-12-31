@@ -7,12 +7,11 @@ In the tutorial we will study all the subjects (exceptBusiness Understanding) th
 
 __preliminary knowledge required:__
 <br/>
-        a. Numpy<br/>
-	b. Pandas<br/>
-	c. basic machine learning theory<br/>
+1. Numpy<br/>
+2. Pandas<br/>
+3. basic machine learning theory<br/>
 <br/>
 
 __Steps:__
-<br/>
 1. Install Python 3<br/>
 2. pip install -r requirements.txt
