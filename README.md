@@ -4,11 +4,15 @@ A practical tutorial for making a simple machine learning project from A-Z.
 In the tutorial we will study all the subjects (exceptBusiness Understanding) that are described in the above diagram(CRISP-DM).<br/>
 
 <br/>
-**preliminary knowledge required:**<br/>
+
+__preliminary knowledge required:__
+<br/>
         a. Numpy<br/>
 	b. Pandas<br/>
-	c. basic machine learning theory
+	c. basic machine learning theory<br/>
 <br/>
-**Steps:**<br/>
+
+__Steps:__
+<br/>
 1. Install Python 3<br/>
 2. pip install -r requirements.txt
