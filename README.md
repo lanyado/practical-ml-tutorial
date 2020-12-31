@@ -3,8 +3,7 @@
 In this tutorial, I'm going threw all the parts of CRISP-DM with Python 3.<br/>
 Except for the Business Understanding, you will have to do it alone.<br/><br/>
 
-
-:<br/>
+<br/>
 preliminary knowledge required:<br/>
         a. Numpy<br/>
 	b. Pandas<br/>
