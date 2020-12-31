@@ -1,7 +1,7 @@
 <img alt='CRISP-DM' src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" data-canonical-src="https://github.com/lanyado/ML/raw/master/Other%20useful%20stuff/CRISP-DM.jpg" width="400" height="400" />
 
-A practical tutorial for making a simple machine learning project from A-Z.
-In the tutorial we will study all the subjects (exceptBusiness Understanding) that are described in the above diagram(CRISP-DM).<br/>
+A practical tutorial for making a simple machine learning project from A-Z.<br/>
+In the tutorial we will study all the subjects (except Business Understanding) that are described in the above diagram(CRISP-DM).<br/>
 
 <br/>
 
