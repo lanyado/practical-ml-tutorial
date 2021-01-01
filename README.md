@@ -8,7 +8,7 @@ From data processing throw popular machine learning algorithms to data visualiza
 <br/>
 We will mainly learn how to use Python's Sklearn package to run 8 supervised ML algorithms and 1 unsupervised algorithm.
 <br/>
-Feel free to contact me with any questions and make pull requests for improvements.
+Feel free to make pull requests for improvements or contact me with any questions.
 
 ## preliminary knowledge required:
 <br/>
