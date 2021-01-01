@@ -6,7 +6,7 @@ In the tutorial, we will study all the subjects (except Business Understanding) 
 <br/>
 From data processing throw popular machine learning algorithms to data visualization in the end.
 <br/>
-__We will mainly learn how to use Python's Sklearn package__ to run 8 supervised ML algorithms and 1 unsupervised algorithm.
+We will mainly learn how to use Python's Sklearn package to run 8 supervised ML algorithms and 1 unsupervised algorithm.
 <br/>
 Feel free to contact me with any questions and make pull requests for improvements.
 
